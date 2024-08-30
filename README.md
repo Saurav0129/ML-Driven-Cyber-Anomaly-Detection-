@@ -20,3 +20,23 @@ This project focuses on applying machine learning techniques to detect cyber ano
 - Scikit-learn
 - TensorFlow/Keras
 - Seaborn, Matplotlib
+
+## How to Use This Repository:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Saurav0129/ML-Driven-Cyber-Anomaly-Detection.git
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Open and run the Jupyter notebook:
+   ```
+   jupyter notebook "ML-Driven Cyber Anomaly Detection.ipynb"
+   ```
+
+4. Follow the notebook to understand the analysis and model implementations.
+
